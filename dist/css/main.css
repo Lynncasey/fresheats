@@ -1,0 +1,9 @@
+body{background:rgb(92, 173, 92);font-size:1.2rem}
+/*# sourceMappingURL=main.css.map */
+font-size: 1.2rem;
+font-family: 'Montserrat', sans-serif;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
